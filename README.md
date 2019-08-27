@@ -1,2 +1,2 @@
-# o-que-eu-quiser
-Só pra fazer a lição mesmo
+# O que eu quiser
+Só pra fazer a lição mesmo.
